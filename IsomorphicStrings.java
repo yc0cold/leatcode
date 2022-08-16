@@ -30,6 +30,7 @@ public class IsomorphicStrings {
                 intT[j] = chk2;
             }
         }
+/*
 
         for(int i=0; i<intS.length; i++){
             System.out.println("intS = " + intS[i]);
@@ -37,6 +38,7 @@ public class IsomorphicStrings {
         for(int i=0; i<intS.length; i++){
             System.out.println("intT = " + intT[i]);
         }
+*/
 
         for(int k=0; k<intS.length; k++){
             if(intS[k]-intT[k] != 0){
