@@ -7,7 +7,6 @@ public class RunningSumOf1dArray {
             sum+=nums[i];
             arr[i] = sum;
         }
-
         return arr;
     }
 }
