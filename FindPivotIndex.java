@@ -35,7 +35,5 @@ public class FindPivotIndex {
         if(nums[nums.length-1] == rightArray[nums.length-1]){
             return nums.length-1;
         }else return -1;
-
-
     }
 }
