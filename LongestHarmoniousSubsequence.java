@@ -36,6 +36,7 @@ public class LongestHarmoniousSubsequence {
                 max = map.get(keyArr[0]) + map.get(keyArr[1]);
             }
         }
+
         return max;
     }
 

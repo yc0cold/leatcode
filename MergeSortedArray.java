@@ -16,6 +16,7 @@ public class MergeSortedArray {
                 nums1[k--] = nums2[p2--];
             }
         }
+        
         System.out.println("Arrays.toString(nums1) = " + Arrays.toString(nums1));
 //        int idx1 = 0, idx2 = 0;
 //        Queue<Integer> q = new LinkedList<>();

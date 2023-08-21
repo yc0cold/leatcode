@@ -1,4 +1,7 @@
 public class MiddleOfTheLinkedList {
+    // 876. Middle of the Linked List
+    // category: LinkedList
+    // Level: Easy
     public class ListNode {
         int val;
         ListNode next;
